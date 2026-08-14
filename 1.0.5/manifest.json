@@ -1,0 +1,128 @@
+{
+    "version": "1.0.5",
+    "mainAssembly": "FarmMatch3.Bootstrap",
+    "entryType": "FarmMatch3.Bootstrap.HotBootstrap",
+    "entryMethod": "Run",
+    "aotMetaAssemblies": [
+        "FarmMatch3.HotUpdate.Runtime.dll",
+        "System.Core.dll",
+        "UniRx.dll",
+        "UniTask.dll",
+        "Unity.InputSystem.dll",
+        "UnityEngine.AssetBundleModule.dll",
+        "UnityEngine.CoreModule.dll",
+        "UnityEngine.JSONSerializeModule.dll",
+        "UnityEngine.UI.dll",
+        "Zenject.dll",
+        "mscorlib.dll"
+    ],
+    "hotUpdateAssemblies": [
+        "FarmMatch3.Domain.dll",
+        "FarmMatch3.Configs.dll",
+        "FarmMatch3.Application.dll",
+        "FarmMatch3.Infrastructure.dll",
+        "FarmMatch3.Presentation.dll",
+        "FarmMatch3.Bootstrap.dll"
+    ],
+    "assetBundles": [
+        "farm_configs.ab",
+        "farm_scenes.ab"
+    ],
+    "files": [
+        {
+            "name": "FarmMatch3.Domain.dll.bytes",
+            "size": 84992,
+            "md5": "84b65b7ad10d2397db1ba149e2ec13c9"
+        },
+        {
+            "name": "FarmMatch3.Configs.dll.bytes",
+            "size": 55296,
+            "md5": "0a48d2654d9e279af717ae00cd5c757d"
+        },
+        {
+            "name": "FarmMatch3.Application.dll.bytes",
+            "size": 34816,
+            "md5": "a3725161b0a72b6e03c1d07ef02bdc16"
+        },
+        {
+            "name": "FarmMatch3.Infrastructure.dll.bytes",
+            "size": 27136,
+            "md5": "468381bb81086b17d7e6902d53c0c8ab"
+        },
+        {
+            "name": "FarmMatch3.Presentation.dll.bytes",
+            "size": 257024,
+            "md5": "46bef1ef63b8a851ebb6143039f4beac"
+        },
+        {
+            "name": "FarmMatch3.Bootstrap.dll.bytes",
+            "size": 28160,
+            "md5": "733d980a79b1f5b9f541946ef4ce086b"
+        },
+        {
+            "name": "FarmMatch3.HotUpdate.Runtime.dll.bytes",
+            "size": 25088,
+            "md5": "58179865578c6bb2d31970f745148f36"
+        },
+        {
+            "name": "System.Core.dll.bytes",
+            "size": 90112,
+            "md5": "670fff06bb97d42446d0c05f999495bd"
+        },
+        {
+            "name": "UniRx.dll.bytes",
+            "size": 459776,
+            "md5": "ccc48d08f6eba133d1945941d786d0c4"
+        },
+        {
+            "name": "UniTask.dll.bytes",
+            "size": 554496,
+            "md5": "99917489f8ae6a8b17a6dbe92eaca883"
+        },
+        {
+            "name": "Unity.InputSystem.dll.bytes",
+            "size": 1123328,
+            "md5": "2f8c2b857aeaea0de28ebdc7c99958d6"
+        },
+        {
+            "name": "UnityEngine.AssetBundleModule.dll.bytes",
+            "size": 18432,
+            "md5": "48e8c5919311c0481824f463c82317f7"
+        },
+        {
+            "name": "UnityEngine.CoreModule.dll.bytes",
+            "size": 1134592,
+            "md5": "191dfde4c8c791ae949e422c22f5445e"
+        },
+        {
+            "name": "UnityEngine.JSONSerializeModule.dll.bytes",
+            "size": 16384,
+            "md5": "301f442cdc1ed3a14211bba1e27de167"
+        },
+        {
+            "name": "UnityEngine.UI.dll.bytes",
+            "size": 276480,
+            "md5": "3134f07ce780e2acdfdab8fb60435d3f"
+        },
+        {
+            "name": "Zenject.dll.bytes",
+            "size": 520192,
+            "md5": "6967cf134ee71bce67d35637ac056648"
+        },
+        {
+            "name": "mscorlib.dll.bytes",
+            "size": 2306048,
+            "md5": "3557d94375f9a449078feba0f8901728"
+        },
+        {
+            "name": "farm_configs.ab",
+            "size": 14144659,
+            "md5": "404093e139e0f40d3eaf148fb33a289b"
+        },
+        {
+            "name": "farm_scenes.ab",
+            "size": 12343459,
+            "md5": "8cbb94bb17bd9b0ba4512d1ddb558eb6"
+        }
+    ]
+}
