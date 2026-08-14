@@ -1,0 +1,50 @@
+{
+    "version": "1.0.1",
+    "mainAssembly": "FarmMatch3.HotFix",
+    "entryType": "FarmMatch3.HotFix.HotFixEntry",
+    "entryMethod": "Run",
+    "aotMetaAssemblies": [
+        "mscorlib.dll",
+        "UniRx.dll",
+        "UniTask.dll",
+        "Zenject.dll"
+    ],
+    "hotUpdateAssemblies": [
+        "FarmMatch3.HotFix.dll"
+    ],
+    "assetBundles": [
+        "hotfix_canary.ab"
+    ],
+    "files": [
+        {
+            "name": "FarmMatch3.HotFix.dll.bytes",
+            "size": 9728,
+            "md5": "63e77628fb35396e416f4d11389630bb"
+        },
+        {
+            "name": "mscorlib.dll.bytes",
+            "size": 2188800,
+            "md5": "1eae98500cb0aee5a5788a027a0f2c40"
+        },
+        {
+            "name": "UniRx.dll.bytes",
+            "size": 459776,
+            "md5": "ccc48d08f6eba133d1945941d786d0c4"
+        },
+        {
+            "name": "UniTask.dll.bytes",
+            "size": 554496,
+            "md5": "99917489f8ae6a8b17a6dbe92eaca883"
+        },
+        {
+            "name": "Zenject.dll.bytes",
+            "size": 520192,
+            "md5": "6967cf134ee71bce67d35637ac056648"
+        },
+        {
+            "name": "hotfix_canary.ab",
+            "size": 2326,
+            "md5": "c0e72d0367870edb446db1f92e438ed4"
+        }
+    ]
+}
